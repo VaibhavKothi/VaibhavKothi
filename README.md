@@ -1,9 +1,7 @@
-<p align="center">
+<div align="center">
   <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/cover.jpg" alt="Cover!" />
-</p>
-<p align="center">
   <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/profile.gif" alt="Profile Picture!" />
-</p>
+</div>
 <p align="center">
   <a href="https://vaibhav.wtf" target="_blank">
     <img width="24%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/card1.jpg" atl="Portfolio!" />
