@@ -1,5 +1,8 @@
-<img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/cover.jpg" alt="Cover!" />
-<img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/profile.gif" alt="Profile Picture!" />
+<p align="center">
+  <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/cover.jpg" alt="Cover!" />
+  <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/profile.gif" alt="Profile Picture!" />
+</p>
+<p align="center">
   <a href="https://vaibhav.wtf" target="_blank">
     <img width="24%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/card1.jpg" atl="Portfolio!" />
   </a>
@@ -12,3 +15,4 @@
   <a href="https://www.instagram.com/vaibhav.wtf/" target="_blank">
     <img width="24%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/card4.jpg" atl="Portfolio!" />
   </a>
+</p>
