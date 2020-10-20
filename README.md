@@ -1,5 +1,7 @@
 <p align="center">
   <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/cover.jpg" alt="Cover!" />
+</p>
+<p align="center">
   <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/profile.gif" alt="Profile Picture!" />
 </p>
 <p align="center">
