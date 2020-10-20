@@ -1,4 +1,4 @@
-<img src="https://github.com/VaibhavKothi/VaibhavKothi/blob/master/output.gif" alt="Here is a little bit about me!" />
+<img src="https://github.com/VaibhavKothi/VaibhavKothi/blob/master/output.gif" alt="Cover!" />
 <div align="center">
-  <img width="10%" src="http://vaibhav.wtf/Assets/loading.gif" alt="Profile Picture!" />
+  <img width="10%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/master/me.gif" alt="Profile Picture!" />
 </div>
