@@ -1,12 +1,7 @@
-<div align="center">
-  <a href="https://github.com/VaibhavKothi" target="_blank">
-    <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/cover.jpg" alt="Cover!" />
-  </a>
-  <a href="https://github.com/VaibhavKothi" target="_blank">
-    <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/profile.gif" alt="Profile Picture!" />
-  </a>
-</div>
 <p align="center">
+  <a href="https://github.com/VaibhavKothi" target="_blank">
+    <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/cover.gif" alt="Cover!" />
+  </a>
   <a href="https://vaibhav.wtf" target="_blank">
     <img width="24%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/card1.jpg" atl="Portfolio!" />
   </a>
