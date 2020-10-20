@@ -2,7 +2,7 @@
 <img width="100%" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/profile.gif" alt="Profile Picture!" />
 <p align='center'>
   <a href="vaibhav.wtf" target="_blank">
-    <img src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/card1.jpg" atl="Portfolio!"> </img>
+    <img href="vaibhav.wtf" target="_blank" src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/card1.jpg" atl="Portfolio!"> </img>
   </a>
   <a href="vaibhav.wtf/resume" target="_blank">
     <img src="https://github.com/VaibhavKothi/VaibhavKothi/blob/main/card2.jpg" atl="Portfolio!"> </img>
